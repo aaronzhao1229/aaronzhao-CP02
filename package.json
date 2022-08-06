@@ -1,0 +1,23 @@
+{
+  "name": "aaronzhao-cp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronzhao1229/aaronzhao-CP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronzhao1229/aaronzhao-CP02/issues"
+  },
+  "homepage": "https://github.com/aaronzhao1229/aaronzhao-CP02#readme",
+  "dependencies": {
+    "foo": "^0.0.7"
+  }
+}
